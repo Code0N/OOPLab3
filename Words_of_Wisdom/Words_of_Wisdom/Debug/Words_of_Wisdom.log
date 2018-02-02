@@ -1,0 +1,21 @@
+﻿Build started 08.12.2016 9:26:54.
+     1>Project "G:\Универ\ООП\Лабы\3\Words_of_Wisdom\Words_of_Wisdom\Words_of_Wisdom.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Words_of_Wisdom.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\Words_of_Wisdom.unsuccessfulbuild".
+         Touching "Debug\Words_of_Wisdom.lastbuildstate".
+     1>Done Building Project "G:\Универ\ООП\Лабы\3\Words_of_Wisdom\Words_of_Wisdom\Words_of_Wisdom.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.89
